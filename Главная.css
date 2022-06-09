@@ -1,0 +1,127 @@
+ .u-section-1 {
+  background-image: url("images/1613129688_82-p-fon-zhelto-fioletovii-gradient-96.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 232px;
+  height: 94px;
+  margin: 34px auto 0 25px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -85px auto 0 374px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 83px auto 0 25px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 30px auto 0 451px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: 12px auto 0 492px;
+  padding: 8px 33px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: 119px 49px 51px auto;
+  padding: 8px 33px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 412px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 308px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 372px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 292px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 316px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 20px;
+    margin-left: 236px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 285px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 72px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 237px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 177px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 214px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 662px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 111px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 135px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 22px;
+    margin-right: 26px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 108px;
+  }
+}
